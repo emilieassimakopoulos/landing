@@ -1,0 +1,11 @@
+.cards-volc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-volc img {
+	width: 494px ;
+	height: 350px;
+    margin: 1px;
+   	flex-grow: 1;
+} 

@@ -1,0 +1,12 @@
+.cards-casc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-casc img{
+	height: 350px;
+	width: 245px;
+	margin: 1px;
+	flex-grow: 1px;
+}
+

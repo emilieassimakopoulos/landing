@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("components/container.css");
+@import	url("components/imgintro.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cardsintro.css");
+@import url("components/cardsvolc.css");
+@import url("components/cardsalazie.css");
+@import url("components/cardcilaos.css");
+@import url("components/cardmafate.css");
+@import url("components/cardcasc.css");
+@import url("components/texte.css");
+
+body{
+	font-family: Helvetica;
+	margin: 0px;
+	background-color: #fcfcfc;
+} 
+
+
+
+h1,h2,h3{
+	font-family: 'Nunito', sans-serif;
+}
+h2,h3 {
+	text-align: center;
+}
+
+h2{
+	font-size: 30px
+}
+h3{
+	font-size: 20px;
+}
+p{  
+	margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: system-ui;
+    font-size: 15px;
+    color: 
+}
+
+a {	
+	text-decoration: none;
+	color: black;
+	font-weight: bold;	
+	font-size: 20px;}
+a:hover {
+	color: black}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
